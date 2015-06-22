@@ -1,0 +1,34 @@
+{
+  "name": "css-functions",
+  "version": "0.0.1",
+  "description": "An ECMAScript 2015 CSS utility functions library.",
+  "keywords": [
+    "CSS",
+    "functions",
+    "library",
+    "cross-browser",
+    "ECMAScript 2015",
+    "ES6"
+  ],
+  "bugs": "https://github.com/Frikki/css-functions/issues",
+  "license": "Unlicense",
+  "author": {
+    "name": "Frederik Krautwald",
+    "email": "fkrautwald@gmail.com"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Frikki/css-functions.git"
+  },
+  "devDependencies": {
+    "eslint": "^0.21.2"
+  },
+  "dependencies": {
+  },
+  "browserify": {
+    "transform": [
+      "babelify"
+    ]
+  }
+}
