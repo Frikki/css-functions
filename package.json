@@ -1,6 +1,6 @@
 {
   "name": "css-functions",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "An ECMAScript 2015 CSS utility functions library.",
   "keywords": [
     "CSS",
@@ -24,8 +24,7 @@
   "devDependencies": {
     "eslint": "^0.21.2"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "browserify": {
     "transform": [
       "babelify"
